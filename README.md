@@ -1,1 +1,1 @@
-# pibit-ai-project
+Python script using ChatGPT to parse resume text into JSON format. Extracts name, email, phone, skills, and experience. Modify resume_parser.py with your resume content, run with Python, and view JSON output.
